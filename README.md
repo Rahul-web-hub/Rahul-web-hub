@@ -1,6 +1,6 @@
 ### Hi there 👋, Rahul Singh
 #### Web Developer
-![Web Developer](https://i.im.ge/2024/01/27/bSqbBT.Black-Technology-LinkedIn-Banner-3.png)
+**![Web Developer](https://cdn.vectorstock.com/i/preview-1x/30/05/web-banner-development-software-and-ui-interface-vector-37813005.jpg)**
 
 I'm Rahul, a web developer based in India and currently a sophomore at IIIT Bhopal. I enjoy learning languages and frameworks like React and Node.js to improve my web development skills.
 
