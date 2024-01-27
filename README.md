@@ -1,5 +1,15 @@
-### Hi there 👋
+### Hi there 👋, Rahul Singh
+#### Web Developer
+![Web Developer](https://i.im.ge/2024/01/27/bSqbBT.Black-Technology-LinkedIn-Banner-3.png)
 
-I'm Rahul, a web developer based in India and currently a sophomore at IIIT Bhopal. I enjoy learning languages and frameworks like React and Node.js to improve my web development skills. 
+I'm Rahul, a web developer based in India and currently a sophomore at IIIT Bhopal. I enjoy learning languages and frameworks like React and Node.js to improve my web development skills.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+Skills:  REACT / JS / HTML / CSS
+
+- 🌱 I’m currently learning Full Stack Development 
+- 👯 I’m looking to collaborate on  innovative web development projects. 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Rahul)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/rahul-singh-3b0951225/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://6592d3aa6ca12dcc1596d608--preeminent-pasca-4603b6.netlify.app/)  
+
+
