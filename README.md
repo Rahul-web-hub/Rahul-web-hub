@@ -3,7 +3,7 @@
 I'm Rahul, a web developer based in India and currently a sophomore at IIIT Bhopal. I enjoy learning languages and frameworks like React and Node.js to improve my web development skills.
 
 ## Skills and Experience
-* ⚛ React
+* ⚛ React ,Django, Python, Node Js
 * 💻 HTML, CSS, JS
 
 - 🌱 I’m currently learning Full Stack Development 
